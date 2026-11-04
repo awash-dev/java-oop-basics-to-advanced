@@ -27,9 +27,9 @@ My goal is to develop strong Java programming skills through practical examples,
 ## 🗺️ Complete Learning Roadmap
 
 ### Phase 1: Java Fundamentals
-- [ ] Introduction to Java
-- [ ] JDK, JRE, and JVM
-- [ ] Variables and data types
+- [_/] Introduction to Java
+- [_/] JDK, JRE, and JVM
+- [_/] Variables and data types
 - [ ] Operators
 - [ ] Input and output
 - [ ] Conditional statements

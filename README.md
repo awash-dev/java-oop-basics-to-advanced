@@ -30,8 +30,8 @@ My goal is to develop strong Java programming skills through practical examples,
 - [_/] Introduction to Java
 - [_/] JDK, JRE, and JVM
 - [_/] Variables and data types
-- [ ] Operators
-- [ ] Input and output
+- [_/] Operators
+- [_/] Input and output
 - [ ] Conditional statements
 - [ ] Loops
 - [ ] Arrays
